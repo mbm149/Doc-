@@ -1,4 +1,4 @@
-# Setups to remote in a Linux VirtualBox VM from your local VS Code
+# Setup to remote in a Linux VirtualBox VM from your local VS Code
 
 
 
